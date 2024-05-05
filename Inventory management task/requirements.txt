@@ -1,0 +1,23 @@
+Task General Description
+You are required to develop an inventory management system using Python that allows the store owner to perform the following tasks:
+
+1. Add New Item: Prompt the user to enter details such as item name, price, and quantity for a new item. Store this information in the inventory.
+2. Update Stock: Allow the user to update the quantity of existing items in the inventory.
+3. Generate Sales Report: Calculate the total revenue generated from sales. This should include the total revenue for each item and the overall revenue for all items sold.
+4. Popular Items: Identify the top three most popular items based on sales quantity.
+5. Exit: Provide an option for the user to exit the program.
+
+Requirements
+1. Utilize variables to store item details such as name, price, and quantity.
+2. Receive input from the user to add new items and update stock quantities.
+3. Implement string formatting to display item details and sales reports.
+4. Use string methods to manipulate item names (e.g., convert to uppercase).
+5. Perform arithmetic operations to calculate total revenue.
+6. Utilize if statements to handle logical operations such as checking for popular items and managing the exit option.
+7. Implement while and for loops as necessary for iterating through inventory items and generating reports.
+8. Ensure the program handles user input errors gracefully.
+
+Required Deliverables:
+1. Deliver a Python script (.py file) containing the implementation of the inventory management system.
+2. Deliver a document or screenshot showing the output of the program, including sample interactions with the user (adding items, updating stock, generating reports, etc.).
+3. Provide a brief explanation of the code structure and any design decisions made during implementation.
